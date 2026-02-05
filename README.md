@@ -1,16 +1,21 @@
-## Hi there 👋
+# Beyond the Alignment
 
-<!--
-**jambot-1948/jambot-1948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Exploring why product transformations stall—and what to do about it.**
 
-Here are some ideas to get you started:
+I'm building a thesis around three concepts: **Innovation Tax**, **Context Collapse**, and **Semantic Maintenance**. These are the missing pieces that product operating models need to actually stick.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Live Sites
+
+| | |
+|---|---|
+| **[Why Product Transformations Stall](https://jambot-1948.github.io/Product-Operating-Models-/)** | The main thesis — the Great Bifurcation is coming |
+| **[Context Collapse](https://jambot-1948.github.io/Contextual-Collapse/)** | How shared understanding erodes faster than we can document |
+| **[Next.js Analysis](https://jambot-1948.github.io/BTA-NextJS-Analysis/)** | Innovation Tax case study |
+| **[Backstage Lab Report](https://jambot-1948.github.io/bta-lab-report/)** | NLP analysis: 51% maintenance burden |
+| **[Failure Modes](https://jambot-1948.github.io/BTA-Animations/)** | Interactive semantic drift patterns |
+
+## The Methodology
+
+Based on **Linguistic Debt™ Analysis** — [US Patent 12,106,240 B2](https://patents.google.com/patent/US12106240B2)
+
+→ **[beyondthealignment.com](https://beyondthealignment.com)**
