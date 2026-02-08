@@ -14,7 +14,7 @@ I'm building a thesis around three concepts: **Innovation Tax**, **Context Colla
 | **[Next.js Analysis](https://jambot-1948.github.io/BTA-NextJS-Analysis/)** | Innovation Tax case study |
 | **[Backstage Lab Report](https://jambot-1948.github.io/bta-lab-report/)** | BTA Methodology: 51% maintenance burden |
 | **[The Unreliable Narrator](https://jambot-1948.github.io/The-Unreliable-Narrator/)** | When dashboards, roadmaps, and KPIs become unreliable narrators — told through cinema |
-| **[ArgoCD: The Data Story](https://jambot-1948.github.io/Data_story_Argo/)** | What 16,232 issues reveal about ArgoCD's structural health, maintainer burden, and linguistic debt |
+| **[ArgoCD: The Data Story](https://jambot-1948.github.io/Data_story_Argo/)** | What 23,410 issues reveal about ArgoCD's structural health, maintainer burden, and linguistic debt |
 | **[Failure Modes](https://jambot-1948.github.io/BTA-Animations/)** | Interactive semantic drift patterns |
 
 ## The Methodology
