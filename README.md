@@ -9,6 +9,8 @@ I'm building a thesis around three concepts: **Innovation Tax**, **Context Colla
 | | |
 |---|---|
 | **[Why Product Transformations Stall](https://jambot-1948.github.io/Product-Operating-Models-/)** | The main thesis — the Great Bifurcation is coming |
+| **[Lazy AI: People Have Codes](https://jambot-1948.github.io/Lazy-AI/)** | Why LLM-generated personas are the most dangerous shortcut in product management — and what real discovery is actually for |
+| **[The Map Is Not the Territory](https://jambot-1948.github.io/The-Map-is-not-the-Territory/)** | An interactive scrollytelling guide to how modern applications and platforms come together |
 | **[The Unscouted Variable](https://jambot-1948.github.io/the-unscouted-variable/)** | What sports analytics revolutions reveal about the metric nobody's tracking |
 | **[Context Collapse](https://jambot-1948.github.io/Contextual-Collapse/)** | How shared understanding erodes faster than we can document |
 | **[Next.js Analysis](https://jambot-1948.github.io/BTA-NextJS-Analysis/)** | Innovation Tax case study |
