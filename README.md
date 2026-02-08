@@ -15,6 +15,7 @@ I'm building a thesis around three concepts: **Innovation Tax**, **Context Colla
 | **[Backstage Lab Report](https://jambot-1948.github.io/bta-lab-report/)** | BTA Methodology: 51% maintenance burden |
 | **[The Unreliable Narrator](https://jambot-1948.github.io/The-Unreliable-Narrator/)** | When dashboards, roadmaps, and KPIs become unreliable narrators — told through cinema |
 | **[ArgoCD: The Data Story](https://jambot-1948.github.io/Data_story_Argo/)** | What 23,410 issues reveal about ArgoCD's structural health, maintainer burden, and linguistic debt |
+| **[n8n Ontology Exploration](https://jambot-1948.github.io/Ontology-Exploration/)** | Mapping 7,887 issues into a living ontology — what cross-cutting analysis reveals for engineers, PMs, and CTOs |
 | **[Failure Modes](https://jambot-1948.github.io/BTA-Animations/)** | Interactive semantic drift patterns |
 
 ## The Methodology
